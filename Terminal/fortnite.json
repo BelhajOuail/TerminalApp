@@ -1,179 +1,226 @@
 [
-    {
-        "id": 1,
-        "username": "Metal Gear Mk. II",
-        "description": "Backs you up on the battlefield.",
-        "age": 25,
-        "active": true,
-        "birthdate": "1999-08-10",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/backpack_abstractmirror/icon.png",
-        "playedModes": ["Solo", "Duo", "Squads"],
-        "gamingSetup": {
-          "id": 101,
-          "monitor": "ASUS ROG Swift",
-          "mouse": "Logitech G502",
-          "keyboard": "Corsair K70",
-          "headset": "HyperX Cloud II"
-        }
-    },
-
-    {
-        "id": 2,
-        "username": "Renegade Raider",
-        "description": "Rare renegade raider outfit.",
-        "age": 28,
-        "active": true,
-        "birthdate": "1996-03-15",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/featured.png",
-        "playedModes": ["Solo", "Squads"],
-        "gamingSetup": {
-          "id": 102,
-          "monitor": "BenQ ZOWIE XL2546",
-          "mouse": "SteelSeries Rival 600",
-          "keyboard": "Razer BlackWidow Elite",
-          "headset": "ASTRO A40 TR"
-        }
-    },
-
-    {
-        "id": 3,
-        "username": "Whistle Warrior",
-        "description": "Throw a flag on the play.",
-        "age": 24,
-        "active": true,
-        "birthdate": "1998-09-20",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_214_athena_commando_f_footballreferee/featured.png",
-        "playedModes": ["Solo", "Duo","Trio", "Squads"],
-        "gamingSetup": {
-          "id": 103,
-          "monitor": "LG 27GN950-B",
-          "mouse": "Razer DeathAdder Elite",
-          "keyboard": "Logitech G Pro X",
-          "headset": "Corsair HS70 Pro"
-        }
-    },
-
-    {
-        "id": 4,
-        "username": "Raven",
-        "description": "Brooding master of dark skies.",
-        "age": 21,
-        "active": true,
-        "birthdate": "2000-05-10",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_102_athena_commando_m_raven/featured.png",
-        "playedModes": ["Solo", "Duo", "Squads"],
-        "gamingSetup": {
-          "id": 104,
-          "monitor": "Acer Predator XB271HU",
-          "mouse": "Finalmouse Ultralight 2",
-          "keyboard": "SteelSeries Apex Pro",
-          "headset": "Logitech G Pro X"
-        }
-    },
-
-    {
-        "id": 5,
-        "username": "Harry Kane",
-        "description": "Keep believing, keep working hard.",
-        "age": 30,
-        "active": false,
-        "birthdate": "1994-12-05",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_a_107_athena_commando_m_lasso_jhza3/featured.png",
-        "playedModes": ["Solo", "Duo"],
-        "gamingSetup": {
-          "id": 105,
-          "monitor": "Samsung Odyssey G7",
-          "mouse": "Corsair Harpoon RGB Wireless",
-          "keyboard": "HyperX Alloy Origins Core",
-          "headset": "SteelSeries Arctis 7"
-        }
-      },
-
+  {
+    "id": 1,
+    "username": "Metal Gear Mk. II",
+    "description": "Backs you up on the battlefield.",
+    "age": 25,
+    "active": true,
+    "birthdate": "1999-08-10",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/backpack_abstractmirror/icon.png",
+    "playedModes": [
+      "Solo",
+      "Duo",
+      "Squads"
+    ],
+    "gamingSetup": [
       {
-        "id": 6,
-        "username": "Ginger Gunner",
-        "description": "Spread some holiday fear.",
-        "age": 26,
-        "active": true,
-        "birthdate": "1996-08-18",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_048_athena_commando_f_holidaygingerbread/featured.png",
-        "playedModes": ["Squads"],
-        "gamingSetup": {
-          "id": 106,
-          "monitor": "Alienware AW2521H",
-          "mouse": "Razer Viper Ultimate",
-          "keyboard": "Corsair K95 RGB Platinum",
-          "headset": "HyperX Cloud Flight"
-        }
-      },
+        "id": 101,
+        "monitor": "ASUS ROG Swift",
+        "mouse": "Logitech G502",
+        "keyboard": "Corsair K70",
+        "headset": "HyperX Cloud II"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "username": "Renegade Raider",
+    "description": "Rare renegade raider outfit.",
+    "age": 28,
+    "active": true,
+    "birthdate": "1996-03-15",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_028_athena_commando_f/featured.png",
+    "playedModes": [
+      "Solo",
+      "Squads"
+    ],
+    "gamingSetup": [
       {
-        "id": 7,
-        "username": "Neymar Jr",
-        "description": "Boldness is my nickname.",
-        "age": 23,
-        "active": true,
-        "birthdate": "1999-02-25",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_a_078_athena_commando_m_bicycle/featured.png",
-        "playedModes": ["Solo", "Duo"],
-        "gamingSetup": {
-          "id": 107,
-          "monitor": "ASUS TUF Gaming VG27AQ",
-          "mouse": "Logitech G903 Lightspeed",
-          "keyboard": "Razer Huntsman Elite",
-          "headset": "SteelSeries Arctis Pro Wireless"
-        }
-      },
+        "id": 102,
+        "monitor": "BenQ ZOWIE XL2546",
+        "mouse": "SteelSeries Rival 600",
+        "keyboard": "Razer BlackWidow Elite",
+        "headset": "ASTRO A40 TR"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "username": "Whistle Warrior",
+    "description": "Throw a flag on the play.",
+    "age": 24,
+    "active": true,
+    "birthdate": "1998-09-20",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_214_athena_commando_f_footballreferee/featured.png",
+    "playedModes": [
+      "Solo",
+      "Duo",
+      "Trio",
+      "Squads"
+    ],
+    "gamingSetup": [
       {
-        "id": 8,
-        "username": "Dark Bomber",
-        "description": "The future looks dark.",
-        "age": 27,
-        "active": true,
-        "birthdate": "1995-07-20",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_229_athena_commando_f_darkbomber/featured.png",
-        "playedModes": ["Solo", "Squads"],
-        "gamingSetup": {
-          "id": 108,
-          "monitor": "ViewSonic XG2402",
-          "mouse": "HyperX Pulsefire FPS Pro",
-          "keyboard": "Logitech G513 Carbon",
-          "headset": "HyperX Cloud Alpha"
-        }
-      },
-
+        "id": 103,
+        "monitor": "LG 27GN950-B",
+        "mouse": "Razer DeathAdder Elite",
+        "keyboard": "Logitech G Pro X",
+        "headset": "Corsair HS70 Pro"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "username": "Raven",
+    "description": "Brooding master of dark skies.",
+    "age": 21,
+    "active": true,
+    "birthdate": "2000-05-10",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_102_athena_commando_m_raven/featured.png",
+    "playedModes": [
+      "Solo",
+      "Duo",
+      "Squads"
+    ],
+    "gamingSetup": [
       {
-        "id": 9,
-        "username": "LeBron James",
-        "description": "The King.",
-        "age": 29,
-        "active": true,
-        "birthdate": "1993-11-12",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_a_136_athena_commando_m_majesty_yr1gj/featured.png",
-        "playedModes": ["Duo", "Squads"],
-        "gamingSetup": {
-          "id": 109,
-          "monitor": "Dell S3220DGF",
-          "mouse": "Razer Basilisk Ultimate",
-          "keyboard": "SteelSeries Apex Pro TKL",
-          "headset": "Corsair VOID RGB Elite"
-        }
-      },
+        "id": 104,
+        "monitor": "Acer Predator XB271HU",
+        "mouse": "Finalmouse Ultralight 2",
+        "keyboard": "SteelSeries Apex Pro",
+        "headset": "Logitech G Pro X"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "username": "Harry Kane",
+    "description": "Keep believing, keep working hard.",
+    "age": 30,
+    "active": false,
+    "birthdate": "1994-12-05",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_a_107_athena_commando_m_lasso_jhza3/featured.png",
+    "playedModes": [
+      "Solo",
+      "Duo"
+    ],
+    "gamingSetup": [
       {
-        "id": 10,
-        "username": "Red Knight",
-        "description": "The red menace of Anarchy Acres.",
-        "age": 31,
-        "active": false,
-        "birthdate": "1991-04-30",
-        "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_034_athena_commando_f_medieval/featured.png",
-        "playedModes": ["Solo", "Duo", "Squads"],
-        "gamingSetup": {
-          "id": 110,
-          "monitor": "LG 34GN850-B",
-          "mouse": "Logitech G Pro Wireless",
-          "keyboard": "Razer BlackWidow V3 Pro",
-          "headset": "ASTRO A40 TR"
-        }
-    }
-
+        "id": 105,
+        "monitor": "Samsung Odyssey G7",
+        "mouse": "Corsair Harpoon RGB Wireless",
+        "keyboard": "HyperX Alloy Origins Core",
+        "headset": "SteelSeries Arctis 7"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "username": "Ginger Gunner",
+    "description": "Spread some holiday fear.",
+    "age": 26,
+    "active": true,
+    "birthdate": "1996-08-18",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_048_athena_commando_f_holidaygingerbread/featured.png",
+    "playedModes": [
+      "Squads"
+    ],
+    "gamingSetup": [
+      {
+        "id": 106,
+        "monitor": "Alienware AW2521H",
+        "mouse": "Razer Viper Ultimate",
+        "keyboard": "Corsair K95 RGB Platinum",
+        "headset": "HyperX Cloud Flight"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "username": "Neymar Jr",
+    "description": "Boldness is my nickname.",
+    "age": 23,
+    "active": true,
+    "birthdate": "1999-02-25",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_a_078_athena_commando_m_bicycle/featured.png",
+    "playedModes": [
+      "Solo",
+      "Duo"
+    ],
+    "gamingSetup": [
+      {
+        "id": 107,
+        "monitor": "ASUS TUF Gaming VG27AQ",
+        "mouse": "Logitech G903 Lightspeed",
+        "keyboard": "Razer Huntsman Elite",
+        "headset": "SteelSeries Arctis Pro Wireless"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "username": "Dark Bomber",
+    "description": "The future looks dark.",
+    "age": 27,
+    "active": true,
+    "birthdate": "1995-07-20",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_229_athena_commando_f_darkbomber/featured.png",
+    "playedModes": [
+      "Solo",
+      "Squads"
+    ],
+    "gamingSetup": [
+      {
+        "id": 108,
+        "monitor": "ViewSonic XG2402",
+        "mouse": "HyperX Pulsefire FPS Pro",
+        "keyboard": "Logitech G513 Carbon",
+        "headset": "HyperX Cloud Alpha"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "username": "LeBron James",
+    "description": "The King.",
+    "age": 29,
+    "active": true,
+    "birthdate": "1993-11-12",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_a_136_athena_commando_m_majesty_yr1gj/featured.png",
+    "playedModes": [
+      "Duo",
+      "Squads"
+    ],
+    "gamingSetup": [
+      {
+        "id": 109,
+        "monitor": "Dell S3220DGF",
+        "mouse": "Razer Basilisk Ultimate",
+        "keyboard": "SteelSeries Apex Pro TKL",
+        "headset": "Corsair VOID RGB Elite"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "username": "Red Knight",
+    "description": "The red menace of Anarchy Acres.",
+    "age": 31,
+    "active": false,
+    "birthdate": "1991-04-30",
+    "profileImageUrl": "https://fortnite-api.com/images/cosmetics/br/cid_034_athena_commando_f_medieval/featured.png",
+    "playedModes": [
+      "Solo",
+      "Duo",
+      "Squads"
+    ],
+    "gamingSetup": [
+      {
+        "id": 110,
+        "monitor": "LG 34GN850-B",
+        "mouse": "Logitech G Pro Wireless",
+        "keyboard": "Razer BlackWidow V3 Pro",
+        "headset": "ASTRO A40 TR"
+      }
+    ]
+  }
 ]

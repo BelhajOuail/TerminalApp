@@ -1,0 +1,74 @@
+[
+    {
+        "id": 101,
+        "monitor": "ASUS ROG Swift",
+        "mouse": "Logitech G502",
+        "keyboard": "Corsair K70",
+        "headset": "HyperX Cloud II"
+    },
+    {
+        "id": 102,
+        "monitor": "BenQ ZOWIE XL2546",
+        "mouse": "SteelSeries Rival 600",
+        "keyboard": "Razer BlackWidow Elite",
+        "headset": "ASTRO A40 TR"
+    },
+    {
+        "id": 103,
+          "monitor": "LG 27GN950-B",
+          "mouse": "Razer DeathAdder Elite",
+          "keyboard": "Logitech G Pro X",
+          "headset": "Corsair HS70 Pro"
+    },
+    {
+        "id": 104,
+          "monitor": "Acer Predator XB271HU",
+          "mouse": "Finalmouse Ultralight 2",
+          "keyboard": "SteelSeries Apex Pro",
+          "headset": "Logitech G Pro X"
+    },
+    {
+        "id": 105,
+          "monitor": "Samsung Odyssey G7",
+          "mouse": "Corsair Harpoon RGB Wireless",
+          "keyboard": "HyperX Alloy Origins Core",
+          "headset": "SteelSeries Arctis 7"
+    },
+    {
+        "id": 106,
+          "monitor": "Alienware AW2521H",
+          "mouse": "Razer Viper Ultimate",
+          "keyboard": "Corsair K95 RGB Platinum",
+          "headset": "HyperX Cloud Flight"
+    },
+    {
+        "id": 107,
+          "monitor": "ASUS TUF Gaming VG27AQ",
+          "mouse": "Logitech G903 Lightspeed",
+          "keyboard": "Razer Huntsman Elite",
+          "headset": "SteelSeries Arctis Pro Wireless"
+    },
+    {
+        "id": 108,
+          "monitor": "ViewSonic XG2402",
+          "mouse": "HyperX Pulsefire FPS Pro",
+          "keyboard": "Logitech G513 Carbon",
+          "headset": "HyperX Cloud Alpha"
+    },
+    {
+        "id": 109,
+          "monitor": "Dell S3220DGF",
+          "mouse": "Razer Basilisk Ultimate",
+          "keyboard": "SteelSeries Apex Pro TKL",
+          "headset": "Corsair VOID RGB Elite"
+    },
+    {
+        "id": 110,
+          "monitor": "LG 34GN850-B",
+          "mouse": "Logitech G Pro Wireless",
+          "keyboard": "Razer BlackWidow V3 Pro",
+          "headset": "ASTRO A40 TR"
+    }
+
+
+]

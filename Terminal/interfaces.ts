@@ -8,7 +8,7 @@ export interface UserData {
     birthdate: string;
     profileImageUrl: string;
     playedModes: string[];
-    gamingSetup: GamingSetup;
+    gamingSetup: GamingSetup[];
 }
 
 // Interface voor gaming setup
